@@ -9,6 +9,12 @@ pnpm install
 pnpm dev
 ```
 
+To start the full suite together:
+
+```bash
+pnpm dev:all
+```
+
 ## Build
 
 ```bash
